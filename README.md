@@ -98,3 +98,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Feel free to adjust the example usage or any other details based on your specific needs.
 
 Let me know if you'd like to add anything else!
+
+##OUTPUT 
+
+**image 1
+![Screenshot 2024-12-16 123131](https://github.com/user-attachments/assets/0b387a27-38bf-4ab4-ae47-9010c941b771) 
+**image 2
+![Screenshot 2024-12-16 123150](https://github.com/user-attachments/assets/f3645525-0535-4e93-a3b2-d860815c17d1)
+
+
