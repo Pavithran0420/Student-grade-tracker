@@ -1,3 +1,9 @@
+## Author
+**PAVITHRAN R**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**: CT12DS2971
+**Domain**: PYTHON PROGRAMMING  
+**Duration**: Dec 5th to Feb 5th, 2025
 
 
 # Student Grade Tracker
